@@ -1,5 +1,3 @@
-# Michelle Lugo
-# CIS 135
 # Homework Program 04
 # For this assignment, I created a program that displays car data in rows and columns.
 # I had the make and model data be displayed on the left side. Units sold and starting price data be displayed on the right.
